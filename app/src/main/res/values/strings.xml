@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Number Shapes</string>
+    <string name="title">Number Shapes</string>
+    <string name="summary">Enter a number to find out if it is a
+    triangle number, square number, or both!</string>
+    <string name="test_btn">TEST NUMBER</string>
+    <string name="resultTV"> </string>
+    <string name="test_empty">Please enter a number in the above text field!</string>
+</resources>
